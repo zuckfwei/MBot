@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+build/
+x64/
+Debug/
+Release/
+MBot/x64/
+MBot/Debug/
+MBot/Release/
+*.vcxproj.user
+*.user
+*.aps
+*.suo
+*.cachefile
+
+# Local runtime settings
+config.JSON
+MBot/config.JSON
+
+# Build artifacts
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+*.log
+*.tlog
+*.lastbuildstate
+*.zip
+ci_artifact_extracted/
+
+# Node (not used in this project)
+node_modules/
+
+# Runtime data captured during play
+accounts.json
+riot-client-evidence.json
+*.har
+
+# OS junk
+Thumbs.db
+desktop.ini

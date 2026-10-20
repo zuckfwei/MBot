@@ -9,7 +9,7 @@ preferences.
 - Ready-check assistance and configurable champion selection preferences
 - Pick-order exchange controls
 - Champion and cosmetic collection browsing
-- Player profile lookup and shortcuts to popular statistics websites
+- Player Profile Lookup – View the profiles and statistics of players you're currently playing with.
 - Local account profiles for easier switching through the official client
 - Customizable interface and settings stored only on the user's computer
 
